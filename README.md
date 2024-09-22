@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akshaysinhparmar
-- 👀 I’m interested in DevOps and Data science
-- 🌱 I’m currently learning devOps and i'm Professor at Silveroak University.
+- 👀 I’m DevOps Engineer
 - 📫 How to reach me . Call +91 972 777 555 3 , mail : mr.akshay.parmar@gmail.com
 
 <!---
